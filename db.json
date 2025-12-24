@@ -3,27 +3,27 @@
       {
         "id": 1,
         "name": "All",
-        "logo": "https://images.unsplash.com/photo-1751697555923-7349819f812d?q=80&amp;w=1032&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "logo": "https://cdn.iconscout.com/icon/premium/png-256-thumb/car-rental-icon-svg-download-png-1856176.png"
       },
       {
         "id": 2,
         "name": "BMW",
-        "logo": "https://images.unsplash.com/photo-1720365011092-32879c966170?q=80&amp;w=435&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "logo": "https://cdn.iconscout.com/icon/free/png-256/free-bmw-icon-svg-download-png-202750.png"
       },
       {
         "id": 3,
         "name": "Audi",
-        "logo": "https://images.unsplash.com/photo-1652508996647-1d098fe656d9?q=80&amp;w=327&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "logo": "https://cdn.iconscout.com/icon/free/png-256/free-audi-icon-svg-download-png-8715812.png"
       },
       {
         "id": 4,
         "name": "Mercedes",
-        "logo": "https://images.unsplash.com/photo-1615228939091-7db8c7f41ee1?q=80&amp;w=415&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "logo": "https://cdn.iconscout.com/icon/free/png-256/free-mercedes-icon-svg-download-png-202855.png"
       },
       {
         "id": 5,
         "name": "Lamborgini",
-        "logo": "https://images.unsplash.com/photo-1632479803237-53e868bb2133?q=80&amp;w=327&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "logo": "https://cdn.iconscout.com/icon/free/png-256/free-lamborghini-icon-svg-download-png-282390.png"
       }
     ]
 }
