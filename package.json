@@ -1,26 +1,12 @@
 {
-  "name": "horizontal_scrollbar-",
+  "name": "horizontal_scrollbar",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ragvenmahto/horizontal_scrollbar-.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/ragvenmahto/horizontal_scrollbar-/issues"
-  },
-  "homepage": "https://github.com/ragvenmahto/horizontal_scrollbar-#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "0.17.4"
   }
 }
