@@ -25,5 +25,36 @@
         "name": "Lamborgini",
         "logo": "https://cdn.iconscout.com/icon/free/png-256/free-lamborghini-icon-svg-download-png-282390.png"
       }
+    ],
+    
+    "bmw": [
+      
+        {
+            "id": "car1",
+            "name": "BMW M3",
+            "brand": "BMW",
+            "pricePerDay": 6000,
+            "rating": 4.8,
+            "fuelType": "Petrol",
+            "transmission": "Automatic",
+            "seats": 5,
+            "image": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?q=80&amp;w=915&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "location": "Delhi",
+            "available": true
+          },
+          {
+            "id": "car2",
+            "name": "BMW M2",
+            "brand": "BMW",
+            "pricePerDay": 7500,
+            "rating": 4.6,
+            "fuelType": "Diesel",
+            "transmission": "Automatic",
+            "seats": 2,
+            "image": "https://images.unsplash.com/flagged/photo-1553505192-acca7d4509be?q=80&amp;w=890&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "location": "Mumbai",
+            "available": false
+          }
+      
     ]
 }
