@@ -30,7 +30,7 @@
     "bmw": [
       
         {
-            "id": "car1",
+            "id": "6",
             "name": "BMW M3",
             "brand": "BMW",
             "pricePerDay": 6000,
@@ -43,7 +43,7 @@
             "available": true
           },
           {
-            "id": "car2",
+            "id": "7",
             "name": "BMW M2",
             "brand": "BMW",
             "pricePerDay": 7500,
