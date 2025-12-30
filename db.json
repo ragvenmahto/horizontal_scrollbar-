@@ -85,6 +85,34 @@
     "location": "Bangalore",
     "available": false
   }
+],
+"mercedes": [
+  {
+    "id": "10",
+    "name": "Mercedes-AMG G 63",
+    "brand": "Mercedes",
+    "pricePerDay": 8000,
+    "rating": 4.9,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "image": "https://images.unsplash.com/photo-1648413653819-7c0fd93e8e6a?q=80&amp;w=465&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Hyderabad",
+    "available": true
+  },
+  {
+    "id": "11",
+    "name": "Mercedes-Benz S-Class",
+    "brand": "Mercedes",
+    "pricePerDay": 7000,
+    "rating": 4.4,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 4,
+    "image": "https://images.unsplash.com/photo-1610099610040-ab19f3a5ec35?q=80&amp;w=464&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Chennai",
+    "available": true
+  }
 ]
 
 
