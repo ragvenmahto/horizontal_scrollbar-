@@ -56,5 +56,36 @@
             "available": false
           }
       
-    ]
+    ],
+
+    "volvo": [
+    {
+    "id": "8",
+    "name": "Volvo XC90",
+    "brand": "Volvo",
+    "pricePerDay": 1200,
+    "rating": 4.5,
+    "fuelType": "petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "image": "https://images.unsplash.com/photo-1629897045592-3629125e0353?q=80&amp;w=327&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Gurgaon",
+    "available": true
+  },
+  {
+    "id": "9",
+    "name": "Volvo S90",
+    "brand": "Volvo",
+    "pricePerDay": 1500,
+    "rating": 4.7,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+    "image": "https://images.unsplash.com/photo-1629896428945-349a9a86e6ba?q=80&amp;w=874&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "location": "Bangalore",
+    "available": false
+  }
+]
+
+
 }
