@@ -117,14 +117,14 @@
 "lamborgini": [
   {
     "id": "12",
-    "name": "Lamborghini Huracan",
+    "name": "Lamborghini Aventador",
     "brand": "Lamborgini",
     "pricePerDay": 9500,
     "rating": 4.0,
     "fuelType": "Petrol",
     "transmission": "Automatic",
     "seats": 2,
-    "image": "https://images.unsplash.com/photo-1519245659620-e859806a8d3b?q=80&amp;w=387&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://images.unsplash.com/photo-1630312465536-5c6b1f76dc3f?q=80&amp;w=327&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "location": "Pune",
     "available": true
   },
